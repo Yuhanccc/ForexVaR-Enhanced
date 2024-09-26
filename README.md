@@ -1,5 +1,6 @@
 # Enhanced VaR Estimation using Deep Learning
 
+## Introduction
 This repository demonstrates an enhanced approach to Value at Risk (VaR) estimation by leveraging deep learning techniques, specifically Long Short-Term Memory (LSTM) networks. The project includes a comprehensive implementation of traditional VaR methods and integrates LSTM models to improve the accuracy and robustness of VaR predictions.
 
 ## Table of Contents
