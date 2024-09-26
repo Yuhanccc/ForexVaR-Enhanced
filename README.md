@@ -29,8 +29,8 @@ Value at Risk (VaR) is a widely used risk management tool that quantifies the po
 To get started, clone the repository and install the required dependencies:
 ```
 bash
-git clone https://github.com/yourusername/EnhancedVaR.git
-cd EnhancedVaR
+git clone https://github.com/Yuhanccc/ForexVaR-with-LSTM.git
+cd ForexVaR-with-LSTM
 pip install -r requirements.txt
 ```
 
